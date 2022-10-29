@@ -5,7 +5,10 @@
 ## Instruction
 
 * Source code contains the code for the replication of the project. 
-* Model folder contains the trained model for evaluation(moved to [here]() due to file size limit). 
+* Models can be found here:
+* [bi-encoder](https://drive.google.com/drive/folders/1-soH6-tsTk4NM5dxtTSDAoCzSGcYDSO_?usp=share_link)
+* [cross-encoder](https://drive.google.com/drive/folders/1so9MRUqHNlQ-CS_3FpSzBgOMpe0yt9mz?usp=sharing)
+* please email me at wmswms928_at_gmail_dot_com if the link does not work
 * Data folder contains the data used for the experiment. 
 * BIKER study contains the source code for replicate BIKER baseline.
 
